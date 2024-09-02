@@ -5,7 +5,8 @@ https://github.com/turboblack/HamsterCMS
 
 This template is special without graphics to speed up work on weak PCs and slow connections, the template weighs 11kb
 
-the template is partially backward compatible with all browsers since the late 90s 
+the template is partially backward compatible with all browsers since the late 90s
+
 interesting javascript effect for content
 Works equally well (does not crumble) with Internet Explorer 5 and modern browsers
 
